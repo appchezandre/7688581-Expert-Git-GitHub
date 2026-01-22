@@ -9,7 +9,6 @@ Open Transport recherche des contributeurs pour tous types de tâches : amélior
 
 <<<<<<< HEAD
 ## Comment contribuer ?
-=======
 ## Comment contriburer ???
 >>>>>>> 32ed61b1d2d4b76f576a21acc24a98a1edb3aadb
 
