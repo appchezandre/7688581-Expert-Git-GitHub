@@ -1,2 +1,3 @@
 feature
-Nouvelle Fonctionnalité
+Fonctionnalité #1
+Fcontionnalité #2
