@@ -1,2 +1,2 @@
 feature
-Nouvelle Fonctionalité
+Nouvelle Fonctionnalité
